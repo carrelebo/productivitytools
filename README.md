@@ -1,2 +1,2 @@
 # productivitytools
-PT : productivity tools to success projects
+PT : web apps for productivity tools to success projects
